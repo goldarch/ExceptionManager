@@ -95,5 +95,8 @@
     </Compile>
   </ItemGroup>
   <ItemGroup />
+  <ItemGroup>
+    <Content Include="img-folder\01.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
